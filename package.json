@@ -6,6 +6,6 @@
   "author": "Maria Lisboa <maria.developer.ti@gmail.com>",
   "dependencies": {
     "graphql-yoga": "^1.18.1",
-    "mongoose": "^5.6.8"
+    "mongoose": "^5.7.5"
   }
 }
